@@ -1,6 +1,6 @@
 # Front End Libraries Projects: A Drum Machine for freecodecamp.org
 
-### Build a Drum Machine
+### Build a Drum Machine with React
 
 #### Objective
 
