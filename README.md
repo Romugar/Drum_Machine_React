@@ -2,6 +2,8 @@
 
 ### Build a Drum Machine with React
 
+Try it on Codepen: https://codepen.io/Romugar/pen/LJXYBr
+
 #### Objective
 
 Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/MJyNMd.
